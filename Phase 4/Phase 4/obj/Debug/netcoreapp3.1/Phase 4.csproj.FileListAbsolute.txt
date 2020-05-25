@@ -1,0 +1,13 @@
+C:\Users\JORDAN\Documents\Jordan Bailon\IT ACADEMY\Curso en C#\Ejercicios C#\Ejercicio Palabras Repetides\Phase 4\Phase 4\bin\Debug\netcoreapp3.1\Phase 4.exe
+C:\Users\JORDAN\Documents\Jordan Bailon\IT ACADEMY\Curso en C#\Ejercicios C#\Ejercicio Palabras Repetides\Phase 4\Phase 4\bin\Debug\netcoreapp3.1\Phase 4.deps.json
+C:\Users\JORDAN\Documents\Jordan Bailon\IT ACADEMY\Curso en C#\Ejercicios C#\Ejercicio Palabras Repetides\Phase 4\Phase 4\bin\Debug\netcoreapp3.1\Phase 4.runtimeconfig.json
+C:\Users\JORDAN\Documents\Jordan Bailon\IT ACADEMY\Curso en C#\Ejercicios C#\Ejercicio Palabras Repetides\Phase 4\Phase 4\bin\Debug\netcoreapp3.1\Phase 4.runtimeconfig.dev.json
+C:\Users\JORDAN\Documents\Jordan Bailon\IT ACADEMY\Curso en C#\Ejercicios C#\Ejercicio Palabras Repetides\Phase 4\Phase 4\bin\Debug\netcoreapp3.1\Phase 4.dll
+C:\Users\JORDAN\Documents\Jordan Bailon\IT ACADEMY\Curso en C#\Ejercicios C#\Ejercicio Palabras Repetides\Phase 4\Phase 4\bin\Debug\netcoreapp3.1\Phase 4.pdb
+C:\Users\JORDAN\Documents\Jordan Bailon\IT ACADEMY\Curso en C#\Ejercicios C#\Ejercicio Palabras Repetides\Phase 4\Phase 4\obj\Debug\netcoreapp3.1\Phase 4.csprojAssemblyReference.cache
+C:\Users\JORDAN\Documents\Jordan Bailon\IT ACADEMY\Curso en C#\Ejercicios C#\Ejercicio Palabras Repetides\Phase 4\Phase 4\obj\Debug\netcoreapp3.1\Phase 4.csproj.CoreCompileInputs.cache
+C:\Users\JORDAN\Documents\Jordan Bailon\IT ACADEMY\Curso en C#\Ejercicios C#\Ejercicio Palabras Repetides\Phase 4\Phase 4\obj\Debug\netcoreapp3.1\Phase 4.AssemblyInfoInputs.cache
+C:\Users\JORDAN\Documents\Jordan Bailon\IT ACADEMY\Curso en C#\Ejercicios C#\Ejercicio Palabras Repetides\Phase 4\Phase 4\obj\Debug\netcoreapp3.1\Phase 4.AssemblyInfo.cs
+C:\Users\JORDAN\Documents\Jordan Bailon\IT ACADEMY\Curso en C#\Ejercicios C#\Ejercicio Palabras Repetides\Phase 4\Phase 4\obj\Debug\netcoreapp3.1\Phase 4.dll
+C:\Users\JORDAN\Documents\Jordan Bailon\IT ACADEMY\Curso en C#\Ejercicios C#\Ejercicio Palabras Repetides\Phase 4\Phase 4\obj\Debug\netcoreapp3.1\Phase 4.pdb
+C:\Users\JORDAN\Documents\Jordan Bailon\IT ACADEMY\Curso en C#\Ejercicios C#\Ejercicio Palabras Repetides\Phase 4\Phase 4\obj\Debug\netcoreapp3.1\Phase 4.genruntimeconfig.cache
